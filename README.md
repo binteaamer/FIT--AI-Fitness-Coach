@@ -1,1 +1,1 @@
-# FIT--AI-Fitness-Coach
+# FIT-AI-Fitness-Coach
